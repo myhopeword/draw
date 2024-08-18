@@ -23,7 +23,7 @@
           <mxGeometry x="480" y="132.5" width="190" height="105" as="geometry" />
         </mxCell>
         <mxCell id="3r6zsvW5G55fgNv5qknv-9" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; 1、用户权限管理模块&lt;div&gt;2、订单支付模块&lt;/div&gt;&lt;div&gt;3、商品管理模块&lt;/div&gt;&lt;div&gt;4、梦想交流模块&lt;/div&gt;&lt;div&gt;5、前台管理模块&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 6、文件上传下载管理模块&lt;/div&gt;&lt;div&gt;&amp;nbsp;7、axios请求封装&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;8、供应商模块管理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="475" y="375" width="205" height="135" as="geometry" />
+          <mxGeometry x="472.5" y="380" width="205" height="135" as="geometry" />
         </mxCell>
         <mxCell id="3r6zsvW5G55fgNv5qknv-10" value="实现功能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="330" width="60" height="30" as="geometry" />
